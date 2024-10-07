@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Shivam Saidawat
-- "I'm a recent graduate with a degree in Computer Science and Engineering from Bikaner Technical University Rajasthan.
+- "I'm Final Year Computer Science and Engineering Student from Bikaner Technical University Rajasthan.
 -  During my studies, I developed a strong foundation in C, C++, Python, JAVA  and I'm particularly passionate about Machine learning and AI.
 
 
-- 👀 I’m interested in Music, singing, Lyrics Writing.
+- 👀 I’m interested in Music, Singing, Lyrics Writing.
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..........
 - 📫 How to reach me     Shivamsaidawat078@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
