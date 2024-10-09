@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shivam Saidawat
-- "I'm Final Year Computer Science and Engineering Student from Bikaner Technical University Rajasthan.
+                                                      - 👋 Hi, I’m Shivam Saidawat
+                         "I'm Final Year Computer Science and Engineering Student from Bikaner Technical University Rajasthan.
 -  During my studies, I developed a strong foundation in C, C++, Python, JAVA  and I'm particularly passionate about Machine learning and AI.
 
 
